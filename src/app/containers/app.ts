@@ -1,5 +1,5 @@
 import { ReduxState } from '../typings/state';
-import App from '../app';
+import App from '../App';
 import { connect } from 'react-redux';
 import { selectTheme } from '../redux/theme/selectors';
 
